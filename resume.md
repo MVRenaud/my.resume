@@ -24,3 +24,4 @@
     - Bar Supervisor
 2. EhrenfeldBar
     - Club Owner
+    - Manager
